@@ -1,7 +1,7 @@
 Lab 2: Search Algorithms
 
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Student Name:** Harshita Sohner  
+**Roll Number:** IC-2k23-37  
 **Course:** Artificial Intelligence  
 **Year:** 4th Year  
 **Semester:** 7  
