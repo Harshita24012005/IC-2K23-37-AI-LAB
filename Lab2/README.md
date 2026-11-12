@@ -5,7 +5,7 @@ Lab 2: Search Algorithms
 **Course:** Artificial Intelligence  
 **Year:** 4th Year  
 **Semester:** 7  
-**Section:** [Your Section]
+**Section:** A
 
 Aim
 
