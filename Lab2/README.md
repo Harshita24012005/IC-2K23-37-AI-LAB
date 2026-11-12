@@ -159,4 +159,4 @@ The Java implementation of all five algorithms is available in the following fil
 
 - Programming Language: Java
 - Data Structures: Queue, Stack, Priority Queue, Arrays
-- IDE: IntelliJ IDEA / Eclipse
+- IDE: IntelliJ IDEA
